@@ -6,10 +6,10 @@ from secrets import Tufts_eecs as wifi
 import mqtt_CBR
 
 # Sets IP Address and Topic
-mqtt_broker = '10.247.55.202' 
-topic_sub = 'minecraft'
-topic_pub = 'minecraft'
-client_id = 'EvanArduino'
+mqtt_broker = 
+topic_sub = 
+topic_pub = 
+client_id = 
 
 # Initializes connection to broker
 def _init_():
